@@ -7,5 +7,8 @@ https://www.youtube.com/watch?v=NbhoeLj6lBs
 <img src='assets/react-axios.png' />
 <h2>🔴A seguir temos a página para adição de novos posts no servidor, tudo feito inteiramente com react axios, excluindo assim o fetch api.</h2>
 <img src='assets/new-post.png' />
+<hr />
+<p>G I F</p>
+<hr />
 <img src='assets/react-axios.gif' />
 <p>Esse foi o projeto, Thank you!😍👌</p>
